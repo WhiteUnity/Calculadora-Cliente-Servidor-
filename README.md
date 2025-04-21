@@ -2,9 +2,8 @@
 
 **Autor:** Joseff Antonio Laverde Avendaño  
 **Materia:** Programación III 
-
-**Universidad:** $Universidad Pedagógica y Tecnológica de Colombia (UPTC) 
-**Profesor:** Jorge Hoyos 
+**Universidad:** Universidad Pedagógica y Tecnológica de Colombia (UPTC) 
+ 
 
 
 ---
