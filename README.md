@@ -1,9 +1,9 @@
 # 🧮 Calculadora Cliente-Servidor en Java
 
 **Autor:** Joseff Antonio Laverde Avendaño  
-**Materia:** Programación III  
+**Materia:** Programación III 
+**Profesor:** Jorge Hoyos 
 **Universidad:** Universidad Pedagógica y Tecnológica de Colombia (UPTC)  
-**Fecha:** $(fecha_actual)
 
 ---
 
